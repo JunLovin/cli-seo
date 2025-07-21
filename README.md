@@ -4,7 +4,7 @@ Un auditor web CLI que utiliza Gemini AI para analizar páginas web y proporcion
 
 ## 🪟 Preview
 
-
+https://github.com/user-attachments/assets/69d87ed2-f094-4715-8118-a198543dd427
 
 ## ✨ Características
 
